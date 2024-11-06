@@ -1,8 +1,0 @@
-{
-    "name": "deep-learning-practice-1",
-    "build": {
-      "dockerfile": "Dockerfile"
-    },
-    "postCreateCommand": "pip install -r requirements.txt"
-  }
-  
